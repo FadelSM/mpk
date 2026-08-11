@@ -6,7 +6,7 @@
   const typingEl = document.getElementById("typing");
   if (!typingEl) return;
 
-  const texts = ["MPK ZONE", "SMP Tunas Harapan", "Periode 25–26"];
+  const texts = ["MPK ZONE", "SMA PGRI 3 JAKARTA", "Periode 25–26"];
   let i = 0, j = 0, deleting = false;
 
   function type() {
